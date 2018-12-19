@@ -31,9 +31,9 @@
 ###### 4 Εβδομάδα: Τελευταίοι έλεγχοι
 
 ###### Υλικά:
-- [Raspberry Pi 3 Model B] (https://www.skroutz.gr/s/8480198/Raspberry-Pi-3-Model-B.html) 38.5€
-- [Arduino Uno REV 3] (https://store.arduino.cc/arduino-uno-rev3) 20€
-- [Grove - Temperature & Humidity Sensor Pro] (https://store.arduino.cc/grove-temperature-humidity-sensor-pro) 14.35€
-- [Grove - Air quality sensor v1.3] (https://store.arduino.cc/grove-air-quality-sensor-v1-3) 9.5€
-- [Grove - Dust Sensor] (https://store.arduino.cc/grove-dust-sensor) 15.50€
-- [LCD Screen] (https://store.arduino.cc/grove-oled-display-1-12) 14.50€
+1. Raspberry Pi 3 Model B ~38.5€
+2. Arduino Uno REV 3 ~20€
+3. Grove - Temperature & Humidity Sensor Pro ~14.35€
+4. Grove - Air quality sensor v1.3 ~9.5€
+5. Grove - Dust Sensor ~15.50€
+6. LCD Screen ~14.50€
